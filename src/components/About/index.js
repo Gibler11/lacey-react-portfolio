@@ -1,5 +1,9 @@
 import React from 'react';
 import coverImage from '../../assets/cover/cover-image.jpg';
+// import section from 'react-bootstrap/esm/Section';
+// import Row from "react-bootstrap/Row";
+// import Col from "react-bootstrap/Col"
+
 function About() {
   return (
     <section className="my-5">
