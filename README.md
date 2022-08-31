@@ -33,4 +33,4 @@ WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter) 
 
 # Notes
-Worked with a tutor
+Worked with a tutor, worked in office hours. My laptop died and i had to get a new one a fell behind on this challenge and in class. I didnt get it where i wanted to had to focus on the group project, but will be working on after the project is over.

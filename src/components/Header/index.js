@@ -1,6 +1,6 @@
 import React from "react";
 import Navigation from "../Navigation";
-import laceyprofile from "../../assets/images/laceyprofile.jpg";
+import laceyprofile from "../../assets/images/profile.jpg";
 
 function Header() {
     return (
